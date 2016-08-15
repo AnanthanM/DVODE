@@ -1,0 +1,122 @@
+\providecommand{\latin}[1]{#1}
+\providecommand*\mcitethebibliography{\thebibliography}
+\csname @ifundefined\endcsname{endmcitethebibliography}
+  {\let\endmcitethebibliography\endthebibliography}{}
+\begin{mcitethebibliography}{15}
+\providecommand*\natexlab[1]{#1}
+\providecommand*\mciteSetBstSublistMode[1]{}
+\providecommand*\mciteSetBstMaxWidthForm[2]{}
+\providecommand*\mciteBstWouldAddEndPuncttrue
+  {\def\EndOfBibitem{\unskip.}}
+\providecommand*\mciteBstWouldAddEndPunctfalse
+  {\let\EndOfBibitem\relax}
+\providecommand*\mciteSetBstMidEndSepPunct[3]{}
+\providecommand*\mciteSetBstSublistLabelBeginEnd[3]{}
+\providecommand*\EndOfBibitem{}
+\mciteSetBstSublistMode{f}
+\mciteSetBstMaxWidthForm{subitem}{(\alph{mcitesubitemcount})}
+\mciteSetBstSublistLabelBeginEnd
+  {\mcitemaxwidthsubitemform\space}
+  {\relax}
+  {\relax}
+
+\bibitem[Tryggvason \latin{et~al.}(2010)Tryggvason, Thomas, Lu, and
+  Aboulhasanzadeh]{1}
+Tryggvason,~G.; Thomas,~S.; Lu,~J.; Aboulhasanzadeh,~B. \emph{Acta Mathematica
+  Scientia} \textbf{2010}, \emph{30}, 551--562\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Weinan \latin{et~al.}(2003)Weinan, Engquist, and Huang]{2}
+Weinan,~E.; Engquist,~B.; Huang,~Z. \emph{Physical Review B} \textbf{2003},
+  \emph{67}, 092101\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Pan and Suga(2005)Pan, and Suga]{3}
+Pan,~Y.; Suga,~K. \emph{Physics of Fluids (1994-present)} \textbf{2005},
+  \emph{17}, 082105\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Thomas \latin{et~al.}(2010)Thomas, Esmaeeli, and Tryggvason]{4}
+Thomas,~S.; Esmaeeli,~A.; Tryggvason,~G. \emph{International Journal of
+  Multiphase Flow} \textbf{2010}, \emph{36}, 71--77\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Kwakkel \latin{et~al.}(2013)Kwakkel, Breugem, and Boersma]{5}
+Kwakkel,~M.; Breugem,~W.-P.; Boersma,~B.~J. \emph{Journal of Computational
+  Physics} \textbf{2013}, \emph{253}, 166--188\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Sussman and Puckett(2000)Sussman, and Puckett]{6}
+Sussman,~M.; Puckett,~E.~G. \emph{Journal of Computational Physics}
+  \textbf{2000}, \emph{162}, 301--337\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Zhang and Law(2011)Zhang, and Law]{7}
+Zhang,~P.; Law,~C.~K. \emph{Physics of Fluids (1994-present)} \textbf{2011},
+  \emph{23}, 042102\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Sharma and Khanna(1998)Sharma, and Khanna]{8}
+Sharma,~A.; Khanna,~R. \emph{Physical Review Letters} \textbf{1998}, \emph{81},
+  3463\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Williams and Davis(1982)Williams, and Davis]{9}
+Williams,~M.~B.; Davis,~S.~H. \emph{Journal of Colloid and Interface Science}
+  \textbf{1982}, \emph{90}, 220--228\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Mitlin(1993)]{10}
+Mitlin,~V.~S. \emph{Journal of colloid and interface science} \textbf{1993},
+  \emph{156}, 491--497\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Khanna \latin{et~al.}(1996)Khanna, Jameel, and Sharma]{11}
+Khanna,~R.; Jameel,~A.; Sharma,~A. \emph{Industrial \& engineering chemistry
+  research} \textbf{1996}, \emph{35}, 3081--3092\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Khanna and Sharma(1997)Khanna, and Sharma]{12}
+Khanna,~R.; Sharma,~A. \emph{Journal of colloid and interface science}
+  \textbf{1997}, \emph{195}, 42--50\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Brown \latin{et~al.}(1989)Brown, Byrne, and Hindmarsh]{13}
+Brown,~P.~N.; Byrne,~G.~D.; Hindmarsh,~A.~C. \emph{SIAM journal on scientific
+  and statistical computing} \textbf{1989}, \emph{10}, 1038--1051\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Cohen and Hindmarsh(1996)Cohen, and Hindmarsh]{14}
+Cohen,~S.~D.; Hindmarsh,~A.~C. \emph{Computers in physics} \textbf{1996},
+  \emph{10}, 138--143\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\end{mcitethebibliography}
